@@ -1,4 +1,4 @@
-# Aventure-se pela Noruega
+# Aventure-se pela Noruega 🏔️
 &rarr; Projeto desenvolvido com o objetivo de aprimorar meus conhecimentos de HTML5 e CSS3<br>
 
 <strong>Tecnologias utilizadas:</strong><br>
